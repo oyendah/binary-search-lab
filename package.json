@@ -1,0 +1,23 @@
+{
+  "name": "binary-search-lab",
+  "version": "1.0.0",
+  "description": "Binary Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyendah/binary-search-lab.git"
+  },
+  "author": "Subair O.A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyendah/binary-search-lab/issues"
+  },
+  "homepage": "https://github.com/oyendah/binary-search-lab#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2"
+  }
+}
